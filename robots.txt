@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otixuono.github.io/XMO/sitemap_index.txt
+Sitemap: https://otixuono.github.io/fGh/sitemap_index.txt
+Sitemap: https://otixuono.github.io/qvE/sitemap_index.txt
+Sitemap: https://otixuono.github.io/thB/sitemap_index.txt
